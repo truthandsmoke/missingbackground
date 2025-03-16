@@ -35,3 +35,9 @@ I can provide a high-level overview of how you might approach this task:
 Please note that building a complete system for this task is a substantial project that might involve backend development, database management, and compliance with various legal regulations. It would likely require a team of developers and potentially legal advisors.
 
 Additionally, scraping websites for sensitive information may be against the terms of service of those websites, so be sure to check their policies and consider obtaining their permission.
+
+Cash App: $beggarbillionaire
+Developer: Nathan Assaf
+eth wallet: 0x7316FB87Ee1DEA2F41A0Da41E3948dda65948b16
+bc wallet: bc1qgggt0c9sn0sgy4nl0a6x8tz8sx8su0y23883gc
+
